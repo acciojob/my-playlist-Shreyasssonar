@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+  body{
+            background-color: #cccccc;
+        }
+h1{
+	text-align:center;
+}
+.player_one{
+	background-color:#fff;
+}
+.player_two{
+	background-color:#fff;
+	width:400px;
+	height:450px;
+	margin-left:50vh;
+}
